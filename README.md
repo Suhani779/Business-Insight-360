@@ -2,7 +2,7 @@
 Welcome to *Business Insight 360, an interactive Power BI project designed to give a 360° view of key business metrics* across multiple domains like Finance, Sales, Marketing, Supply Chain, and Executive Management.This project helps to analyze performance, track KPIs, and visualize insights in an easy-to-understand format. Each section of the dashboard provides a unique perspective for decision-making.
 
 🏠 *Home View*
-📌 File: Home_View.png
+📌 File: Home View.png
 The Home View acts as the *gateway* to the Business Insight 360 dashboard.
 It provides direct navigation to all major sections:
 ✅ Finance View
@@ -14,7 +14,7 @@ It provides direct navigation to all major sections:
 This makes it easy for users to start from one central hub and quickly jump into the business area they need.
 
 💰 *Finance View*
-📌 File: Finance_View.png
+📌 File: Finance View.png
 The Finance View presents *Profit & Loss (P&L) statements* and financial KPIs.
 It includes:
 ✅ Gross Sales, Net Invoice Sales, and Post Deductions
@@ -25,7 +25,7 @@ It includes:
 This section allows finance teams to keep track of financial health and profitability.
 
 📈 *Sales View*
-📌 File: Sales_View.png
+📌 File: Sales View.png
 The Sales View provides deep insights into *customer and product sales performance*.
 It highlights:
 ✅ Net Sales (NS) and Gross Margin (GM) for each customer/product
@@ -36,7 +36,7 @@ It highlights:
 This helps the sales team identify revenue drivers and underperforming areas.
 
 📊 *Marketing View*
-📌 File: Marketing_View.png
+📌 File: Marketing View.png
 The Marketing View focuses on *segment and product category analysis*.
 It includes:
 ✅ Net Sales and Gross Margin by segment (e.g., Notebook, Peripherals, Desktop, Storage, Accessories)
@@ -47,7 +47,7 @@ It includes:
 This ensures that marketing teams can evaluate product performance and align campaigns with growth areas.
 
 🚚 *Supply Chain View*
-📌 File: SupplyChain_View.png
+📌 File: Supply Chain View.png
 The Supply Chain View focuses on operational performance and demand forecasting.
 It highlights:
 ✅ Forecast Accuracy % (FCA) with historical comparison
@@ -57,7 +57,7 @@ It highlights:
 This section ensures supply chain efficiency and risk monitoring.
 
 🔎 *Executive View*
-📌 File: Executive_View.png
+📌 File: Executive View.png
 The Executive View provides a high-level summary of business performance.
 It includes:
 ✅ Net Sales, Gross Margin, Net Profit %
@@ -67,7 +67,7 @@ It includes:
 This view is perfect for quick decision-making at the leadership level.
 
 🤝 *Support View*
-📌 File: Support_View.png
+📌 File: Support View.png
 The Support View helps users stay connected and resolve issues quickly.
 It provides options to:
 ✅ Get an issue resolved
@@ -78,7 +78,7 @@ It provides options to:
 This ensures continuous improvement and smooth collaboration.
 
 ℹ️ *Information View*
-📌 File: Information_View.png
+📌 File: Information View.png
 The Information View provides *guidance and system instructions* for dashboard usage.
 It includes:
 ✅ Data refresh timelines (e.g., monthly on 5th working day)
@@ -93,9 +93,9 @@ This acts as a *help and documentation center* for all dashboard users.
 2. Switch between views (Executive, Finance, Sales, Marketing, Supply Chain, Support, Information) using the top navigation bar.
 3. Hover over charts and KPIs to see tooltips with detailed insights.
 4. Use interactive visuals (bar charts, line charts, tables) to drill down into specific customer, product, or region-level performance.
+5. Check the Support View if you need help, want to give feedback, or add new requests.
+
+# BI_360 Power BI Dashbord - 
+https://drive.google.com/file/d/1KxgMn9QOKpQLxbgjr_hNpG-VjLhe0brh/view?usp=drive_link
 
 # BI_360 Power BI Dashbord Link- 
-
-
-6. Check the Support View if you need help, want to give feedback, or add new requests.
-
