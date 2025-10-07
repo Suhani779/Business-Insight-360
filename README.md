@@ -195,6 +195,6 @@ This acts as a *help and documentation center* for all dashboard users.
 
 ---
 # BI_360 Power BI Dashbord - 
-https://drive.google.com/file/d/1KxgMn9QOKpQLxbgjr_hNpG-VjLhe0brh/view?usp=drive_link
+https://drive.google.com/file/d/1KxgMn9QOKpQLxbgjr_hNpG-VjLhe0brh/view?usp=sharing
 
  
